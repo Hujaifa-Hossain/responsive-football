@@ -63,3 +63,19 @@ body{
   font-size: 16px;
 }
 
+/* logo and social section style */
+.social{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img{
+  width: 500px;
+}
+
+.icon{
+  font-size: 30px;
+  margin: 20px;
+}
