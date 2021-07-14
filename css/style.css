@@ -28,6 +28,12 @@ body{
   color: #FFFFFF;
   text-decoration: none;
   padding: 10px 24px;
+  font-weight: 500;
+}
+
+.link-button a:hover{
+  background-color: #FFFFFF;
+  color: #E02C6D;
 }
 
 .header-banner img{
